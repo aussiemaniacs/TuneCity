@@ -1,33 +1,33 @@
 <dir>
-	<title>Tunes</title>
-	<link>https://ctl.madhouse.appboxes.co/THINGS%20TO%20LISTEN%20TO/</link>
-	<thumbnail></thumbnail>
-	<fanart></fanart>
-</dir>
-
-<dir>
-	<title>Tune Vids</title>
+	<name>Tunes</name>
 	<link></link>
 	<thumbnail></thumbnail>
 	<fanart></fanart>
 </dir>
 
 <dir>
-	<title>Tune Movies</title>
+	<name>Tune Vids</name>
 	<link></link>
 	<thumbnail></thumbnail>
 	<fanart></fanart>
 </dir>
 
 <dir>
-	<title>Tunes Doco's</title>
+	<name>Tune Movies</name>
 	<link></link>
 	<thumbnail></thumbnail>
 	<fanart></fanart>
 </dir>
 
 <dir>
-	<title>Tune City Books</title>
+	<name>Tunes Doco's</name>
+	<link></link>
+	<thumbnail></thumbnail>
+	<fanart></fanart>
+</dir>
+
+<dir>
+	<name>Tune City Books</name>
 	<link></link>
 	<thumbnail></thumbnail>
 	<fanart></fanart>
